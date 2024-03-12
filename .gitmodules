@@ -1,0 +1,3 @@
+[submodule "Server_YourIt"]
+	path = Server_YourIt
+	url = https://github.com/QwOkii/Server_YourIt.git
